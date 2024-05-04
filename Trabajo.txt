@@ -1,1 +1,2 @@
-Trabajando con git
+Trabajando con GIT
+Segundo commit
