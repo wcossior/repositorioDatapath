@@ -1,1 +1,2 @@
-Cerrado
+Abierto
+Modificado desde github por mi
